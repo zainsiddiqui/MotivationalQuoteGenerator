@@ -1,15 +1,15 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: zain
- * Date: 6/5/18
- * Time: 6:25 PM
- */
+/*
+Author: Zain Siddiqui
+Displays quotes to user from array in a clean page. 
+
+Credit for html/css template: https://www.w3schools.com
+*/
 
 include 'MQG/index.php';
 //echo $Statement;
 
-  $bg = array('maxresdefault.jpg', 'road-landscape-mountains-67517.jpg','a.jpg','b.jpg', 'w.png', 'person2.jpg', 'person.jpg','l.jpg'); // array of filenames
+  $bg = array('maxresdefault.jpg', 'road-landscape-mountains-67517.jpg','a.jpg','b.jpg', 'w.png', 'person2.jpg', 'person.jpg','l.jpg'); // array of filenames for bg images
    $r = 0;
    $i=0;
    while ($r == $i){
