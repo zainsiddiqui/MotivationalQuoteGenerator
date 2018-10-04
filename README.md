@@ -1,6 +1,8 @@
 # MotivationalQuoteGenerator
-Program that generates motivational quotes and images which are pulled from a database. * Project uses PHP/HTML/CSS languages
+Program that generates motivational quotes and images which are pulled from a database. 
+* Project uses PHP/HTML/CSS languages
 * Credit to W3Schools for templates.
+
 ![image](https://user-images.githubusercontent.com/39894720/46448156-6d9cb680-c753-11e8-904d-f478291281d8.png)
 
 ![image](https://user-images.githubusercontent.com/39894720/46448196-9fae1880-c753-11e8-8b9a-035c03d3f273.png)
